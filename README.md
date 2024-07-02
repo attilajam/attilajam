@@ -1,4 +1,7 @@
-## Hi there 👋
+# Attila Jamilov
+## Undergraduate Mathematics student at the University of Washington, minoring in Applied Mathematics
+## Bots | Machine Learning
+
 
 <!--
 **attilajam/attilajam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
